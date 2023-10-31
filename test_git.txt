@@ -1,3 +1,0 @@
-tomatoes = 5;
-cucumbers = 6;
-vegetables = tomatoes + cucumbers;
